@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 708455df753798e46a83f5e41a03a52a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bone_4_HangingFrame
+    100002: bone_5_MainChain
+    100004: bone_6_BagChain1
+    100006: bone_6_BagChain2
+    100008: bone_6_BagChain3
+    100010: bone_6_BagChain4
+    100012: bone_6_PunchingBag
+    100014: bone_6_TopStraps
+    100016: CenterRing_bone_6
+    100018: Hook_bone_4
+    100020: Hook_bone_5
+    100022: //RootNode
+    100024: PunchingBag_bone_7
+    100026: PunchingBag_bone_8
+    400000: bone_4_HangingFrame
+    400002: bone_5_MainChain
+    400004: bone_6_BagChain1
+    400006: bone_6_BagChain2
+    400008: bone_6_BagChain3
+    400010: bone_6_BagChain4
+    400012: bone_6_PunchingBag
+    400014: bone_6_TopStraps
+    400016: CenterRing_bone_6
+    400018: Hook_bone_4
+    400020: Hook_bone_5
+    400022: //RootNode
+    400024: PunchingBag_bone_7
+    400026: PunchingBag_bone_8
+    2100000: bone_4_HangingFrameMat
+    2100002: bone_5_MainChainMat
+    2100004: bone_6_BagChain1Mat
+    2100006: bone_6_BagChain2Mat
+    2100008: bone_6_BagChain3Mat
+    2100010: bone_6_BagChain4Mat
+    2100012: bone_6_PunchingBagMat
+    2100014: bone_6_TopStrapsMat
+    2100016: CenterRing_bone_6Mat
+    2100018: Hook_bone_4Mat
+    2100020: Hook_bone_5Mat
+    2100022: PunchingBag_bone_7Mat
+    2100024: PunchingBag_bone_8Mat
+    2300000: bone_4_HangingFrame
+    2300002: bone_5_MainChain
+    2300004: bone_6_BagChain1
+    2300006: bone_6_BagChain2
+    2300008: bone_6_BagChain3
+    2300010: bone_6_BagChain4
+    2300012: bone_6_PunchingBag
+    2300014: bone_6_TopStraps
+    2300016: CenterRing_bone_6
+    2300018: Hook_bone_4
+    2300020: Hook_bone_5
+    2300022: PunchingBag_bone_7
+    2300024: PunchingBag_bone_8
+    3300000: bone_4_HangingFrame
+    3300002: bone_5_MainChain
+    3300004: bone_6_BagChain1
+    3300006: bone_6_BagChain2
+    3300008: bone_6_BagChain3
+    3300010: bone_6_BagChain4
+    3300012: bone_6_PunchingBag
+    3300014: bone_6_TopStraps
+    3300016: CenterRing_bone_6
+    3300018: Hook_bone_4
+    3300020: Hook_bone_5
+    3300022: PunchingBag_bone_7
+    3300024: PunchingBag_bone_8
+    4300000: bone_4_HangingFrame
+    4300002: bone_5_MainChain
+    4300004: bone_6_BagChain1
+    4300006: bone_6_BagChain2
+    4300008: bone_6_BagChain3
+    4300010: bone_6_BagChain4
+    4300012: bone_6_PunchingBag
+    4300014: bone_6_TopStraps
+    4300016: CenterRing_bone_6
+    4300018: Hook_bone_4
+    4300020: Hook_bone_5
+    4300022: PunchingBag_bone_7
+    4300024: PunchingBag_bone_8
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
